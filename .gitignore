@@ -1,0 +1,14 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Shared objects 
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Java classes
+*.class
